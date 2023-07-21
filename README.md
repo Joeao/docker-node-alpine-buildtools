@@ -3,5 +3,5 @@ that do some building when they are installed.
 
 ## Building and Publishing
 
-    docker build -t antriver/node-alpine-buildtools:16.14.0-alpine3.15 .
-    docker push antriver/node-alpine-buildtools:16.14.0-alpine3.15
+    docker build -t antriver/node-alpine-buildtools:16.20.1-alpine3.18 .
+    docker push antriver/node-alpine-buildtools:16.20.1-alpine3.18
